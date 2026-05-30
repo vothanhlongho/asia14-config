@@ -1,6 +1,5 @@
 {
-  "allowed": true,
-  "macs": [
-    "AA:BB:CC:DD:EE:FF"
+  "machines": [
+    { "mac": "AA:BB:CC:DD:EE:FF", "hostname": "PC-01", "allow": false }
   ]
 }
