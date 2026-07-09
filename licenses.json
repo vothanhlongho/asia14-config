@@ -4,6 +4,11 @@
       "mac": "C8A3E8B1803B",
       "hostname": "HOVTL",
       "allow": true
+    },
+    {
+      "mac": "6C1FF71CBF0C",
+      "hostname": "HOVTL",
+      "allow": true
     }
   ]
 }
